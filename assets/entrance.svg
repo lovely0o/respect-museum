@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#eff3fd"/><stop offset="100%" stop-color="#fff5e8"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#dceeff"/><stop offset="100%" stop-color="#f8fcff"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#355070" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<path d="M0 522Q210 448 414 530T809 527T1200 498V675H0Z" fill="#9fb5df" opacity="0.18"/>
+<circle cx="968" cy="138" r="170" fill="#ffffff" opacity="0.45"/>
+<circle cx="220" cy="136" r="92" fill="#ffffff" opacity="0.35"/>
+<g filter="url(#shadow)">
+  <rect x="204" y="144" width="792" height="382" rx="28" fill="#f8fbff"/>
+  <rect x="244" y="120" width="712" height="58" rx="24" fill="#8a7ecf"/>
+  <rect x="270" y="200" width="660" height="252" rx="24" fill="#eef5ff"/>
+  <rect x="292" y="222" width="280" height="208" rx="20" fill="url(#glass)" stroke="#d7e5f6" stroke-width="6"/>
+  <rect x="628" y="222" width="280" height="208" rx="20" fill="url(#glass)" stroke="#d7e5f6" stroke-width="6"/>
+  <rect x="577" y="200" width="46" height="252" rx="16" fill="#e5eef9"/>
+  <rect x="520" y="452" width="160" height="44" rx="12" fill="#dcb875"/>
+  <circle cx="414" cy="308" r="62" fill="#c3b2e9"/>
+  <circle cx="414" cy="308" r="28" fill="#ffffff" opacity="0.72"/>
+  <path d="M413 336v46" stroke="#7a64b4" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="769" cy="306" r="74" fill="#d6e7f9"/>
+  <path d="M739 294h60M739 324h40" stroke="#6f97c0" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="158" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="700" fill="white">MUSEUM ENTRANCE</text>
+</g>
+<text x="602" y="574" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="800" fill="#36485a">존중과 배려의 성 박물관</text>
+</svg>

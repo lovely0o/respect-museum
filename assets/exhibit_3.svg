@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+    <defs>
+      <linearGradient id="exhibit_3_bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#eef4fb"/>
+        <stop offset="100%" stop-color="#f8fcff"/>
+      </linearGradient>
+      <linearGradient id="exhibit_3_glass" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.92"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.64"/>
+      </linearGradient>
+      <linearGradient id="exhibit_3_accent" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#7ea3c7"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.95"/>
+      </linearGradient>
+      <filter id="exhibit_3_shadow" x="-20%" y="-20%" width="140%" height="160%">
+        <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#2f3a4f" flood-opacity="0.18"/>
+      </filter>
+      <filter id="exhibit_3_soft" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="24"/>
+      </filter>
+    </defs><rect width="1200" height="675" fill="url(#exhibit_3_bg)"/><path d="M0 536Q188 448 405 530T832 520T1200 493V675H0Z" fill="#7ea3c7" opacity="0.10"/>
+      <circle cx="1045" cy="112" r="138" fill="none" stroke="#7ea3c7" stroke-opacity="0.22" stroke-width="4"/>
+      <circle cx="1065" cy="122" r="182" fill="none" stroke="#7ea3c7" stroke-opacity="0.12" stroke-width="2"/>
+      <circle cx="142" cy="590" r="168" fill="none" stroke="#7ea3c7" stroke-opacity="0.14" stroke-width="2"/>
+      <circle cx="835" cy="575" r="92" fill="#7ea3c7" opacity="0.10" filter="url(#exhibit_3_soft)"/>
+      <circle cx="230" cy="120" r="86" fill="#ffffff" opacity="0.42" filter="url(#exhibit_3_soft)"/>
+    
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="url(#exhibit_3_glass)"/>
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.78" stroke-width="3"/>
+      <rect x="86" y="88" width="252" height="50" rx="25" fill="#7ea3c7"/>
+      <text x="212" y="121" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="24" fill="white">GROWTH GALLERY</text>
+      <text x="88" y="506" font-family="sans-serif" font-size="50" font-weight="800" fill="#314458">마음의 날씨를 살펴봐요</text>
+      <text x="90" y="545" font-family="sans-serif" font-size="23" fill="#60758a">EMOTIONS AND HEALTHY EXPRESSION</text>
+      <path d="M105 166H315" stroke="#7ea3c7" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+      <circle cx="1045" cy="525" r="72" fill="none" stroke="#7ea3c7" stroke-width="8" stroke-dasharray="10 14" opacity="0.55"/>
+      <path d="M988 545Q1040 474 1098 529" stroke="#7ea3c7" stroke-width="5" fill="none" opacity="0.55"/>
+      <circle cx="166" cy="157" r="16" fill="#7ea3c7" opacity="0.75"/>
+    <defs><filter id="side_shadow" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#304054" flood-opacity="0.12"/></filter></defs>
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="178" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="220" r="22" fill="#7ea3c7" opacity="0.82"/>
+          <text x="847" y="227" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">☁</text>
+          <text x="880" y="213" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">감정</text>
+          <text x="880" y="238" font-family="sans-serif" font-size="14" fill="#657b91">자주 변할 수 있어요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="286" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="328" r="22" fill="#7ea3c7" opacity="0.82"/>
+          <text x="847" y="335" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">♫</text>
+          <text x="880" y="321" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">표현</text>
+          <text x="880" y="346" font-family="sans-serif" font-size="14" fill="#657b91">말로 전할 수 있어요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="394" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="436" r="22" fill="#7ea3c7" opacity="0.82"/>
+          <text x="847" y="443" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">♥</text>
+          <text x="880" y="429" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">도움</text>
+          <text x="880" y="454" font-family="sans-serif" font-size="14" fill="#657b91">힘들면 어른에게 말해요</text>
+        </g>
+        
+      <g pointer-events="none">
+        <circle cx="512" cy="318" r="170" fill="#ffffff" fill-opacity="0.80" stroke="#7ea3c7" stroke-opacity="0.32" stroke-width="8"/>
+        <circle cx="512" cy="318" r="148" fill="none" stroke="#7ea3c7" stroke-opacity="0.12" stroke-width="3" stroke-dasharray="10 14"/>
+      </g>
+      <g filter="url(#exhibit_3_shadow)">
+    
+    <path d="M380 390c46-91 99-51 146-86 37-28 73-71 124-37 23 16 41 40 37 71-7 48-48 78-95 76-41-2-55-24-91-17-45 9-83 39-126 30-43-9-68-42-63-86 3-20 25-38 68-51z" fill="#b2d8ea" opacity="0.86"/>
+    <circle cx="410" cy="265" r="42" fill="#f3d39a"/>
+    <circle cx="512" cy="225" r="42" fill="#c5b0e5"/>
+    <circle cx="612" cy="265" r="42" fill="#9fd0b8"/>
+    <circle cx="398" cy="258" r="4" fill="#6a5234"/><circle cx="420" cy="258" r="4" fill="#6a5234"/>
+    <path d="M393 282q16 18 32 0" stroke="#6a5234" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="500" cy="218" r="4" fill="#5f4b7f"/><circle cx="522" cy="218" r="4" fill="#5f4b7f"/>
+    <path d="M496 250q15-14 30 0" stroke="#5f4b7f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="600" cy="258" r="4" fill="#4c644f"/><circle cx="622" cy="258" r="4" fill="#4c644f"/>
+    <path d="M596 278q15 18 30 0" stroke="#4c644f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    
+      </g>
+      <text x="512" y="535" text-anchor="middle" font-size="24" fill="#7ea3c7" font-family="sans-serif" font-weight="700">EXHIBIT 03</text>
+    </svg>

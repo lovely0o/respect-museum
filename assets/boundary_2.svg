@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+    <defs>
+      <linearGradient id="boundary_2_bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#fffaf2"/>
+        <stop offset="100%" stop-color="#f8fcff"/>
+      </linearGradient>
+      <linearGradient id="boundary_2_glass" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.92"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.64"/>
+      </linearGradient>
+      <linearGradient id="boundary_2_accent" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#d7b668"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.95"/>
+      </linearGradient>
+      <filter id="boundary_2_shadow" x="-20%" y="-20%" width="140%" height="160%">
+        <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#2f3a4f" flood-opacity="0.18"/>
+      </filter>
+      <filter id="boundary_2_soft" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="24"/>
+      </filter>
+    </defs><rect width="1200" height="675" fill="url(#boundary_2_bg)"/><path d="M0 536Q188 448 405 530T832 520T1200 493V675H0Z" fill="#d7b668" opacity="0.10"/>
+      <circle cx="1045" cy="112" r="138" fill="none" stroke="#d7b668" stroke-opacity="0.22" stroke-width="4"/>
+      <circle cx="1065" cy="122" r="182" fill="none" stroke="#d7b668" stroke-opacity="0.12" stroke-width="2"/>
+      <circle cx="142" cy="590" r="168" fill="none" stroke="#d7b668" stroke-opacity="0.14" stroke-width="2"/>
+      <circle cx="835" cy="575" r="92" fill="#d7b668" opacity="0.10" filter="url(#boundary_2_soft)"/>
+      <circle cx="230" cy="120" r="86" fill="#ffffff" opacity="0.42" filter="url(#boundary_2_soft)"/>
+    
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="url(#boundary_2_glass)"/>
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.78" stroke-width="3"/>
+      <rect x="86" y="88" width="252" height="50" rx="25" fill="#d7b668"/>
+      <text x="212" y="121" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="24" fill="white">BOUNDARY GALLERY</text>
+      <text x="88" y="506" font-family="sans-serif" font-size="50" font-weight="800" fill="#314458">동의는 어떻게 확인할까요?</text>
+      <text x="90" y="545" font-family="sans-serif" font-size="23" fill="#60758a">ASK, LISTEN, RESPECT</text>
+      <path d="M105 166H315" stroke="#d7b668" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+      <circle cx="1045" cy="525" r="72" fill="none" stroke="#d7b668" stroke-width="8" stroke-dasharray="10 14" opacity="0.55"/>
+      <path d="M988 545Q1040 474 1098 529" stroke="#d7b668" stroke-width="5" fill="none" opacity="0.55"/>
+      <circle cx="166" cy="157" r="16" fill="#d7b668" opacity="0.75"/>
+    <defs><filter id="side_shadow" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#304054" flood-opacity="0.12"/></filter></defs>
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="178" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="220" r="22" fill="#d7b668" opacity="0.82"/>
+          <text x="847" y="227" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">✓</text>
+          <text x="880" y="213" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">명확한 동의</text>
+          <text x="880" y="238" font-family="sans-serif" font-size="14" fill="#657b91">말로 확인해요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="286" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="328" r="22" fill="#d7b668" opacity="0.82"/>
+          <text x="847" y="335" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">×</text>
+          <text x="880" y="321" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">망설임</text>
+          <text x="880" y="346" font-family="sans-serif" font-size="14" fill="#657b91">동의로 단정하지 않아요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="394" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="436" r="22" fill="#d7b668" opacity="0.82"/>
+          <text x="847" y="443" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">◔</text>
+          <text x="880" y="429" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">촬영과 공유</text>
+          <text x="880" y="454" font-family="sans-serif" font-size="14" fill="#657b91">각각 다르게 물어요</text>
+        </g>
+        
+      <g pointer-events="none">
+        <circle cx="512" cy="318" r="170" fill="#ffffff" fill-opacity="0.80" stroke="#d7b668" stroke-opacity="0.32" stroke-width="8"/>
+        <circle cx="512" cy="318" r="148" fill="none" stroke="#d7b668" stroke-opacity="0.12" stroke-width="3" stroke-dasharray="10 14"/>
+      </g>
+      <g filter="url(#boundary_2_shadow)">
+    
+    <rect x="422" y="232" width="178" height="168" rx="28" fill="#ffffff" stroke="#d7b668" stroke-width="12"/>
+    <circle cx="468" cy="286" r="25" fill="#9fd1b8"/><path d="M455 286l9 10 16-18" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="468" cy="345" r="25" fill="#efb2a7"/><path d="M456 333l24 24M480 333l-24 24" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <rect x="512" y="265" width="54" height="34" rx="14" fill="#ebf6f1"/>
+    <rect x="512" y="324" width="54" height="34" rx="14" fill="#fff0ec"/>
+    <path d="M617 220h18v76" stroke="#90a9bc" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="590" y="289" width="74" height="54" rx="12" fill="#d9ecf8" stroke="#90a9bc" stroke-width="8"/>
+    <circle cx="627" cy="316" r="8" fill="#90a9bc"/>
+    
+      </g>
+      <text x="512" y="535" text-anchor="middle" font-size="24" fill="#d7b668" font-family="sans-serif" font-weight="700">EXHIBIT 02</text>
+    </svg>

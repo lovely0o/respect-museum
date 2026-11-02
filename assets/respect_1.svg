@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+    <defs>
+      <linearGradient id="respect_1_bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#eee8fb"/>
+        <stop offset="100%" stop-color="#fff8ef"/>
+      </linearGradient>
+      <linearGradient id="respect_1_glass" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.92"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.64"/>
+      </linearGradient>
+      <linearGradient id="respect_1_accent" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#7d64b3"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0.95"/>
+      </linearGradient>
+      <filter id="respect_1_shadow" x="-20%" y="-20%" width="140%" height="160%">
+        <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#2f3a4f" flood-opacity="0.18"/>
+      </filter>
+      <filter id="respect_1_soft" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="24"/>
+      </filter>
+    </defs><rect width="1200" height="675" fill="url(#respect_1_bg)"/><path d="M0 536Q188 448 405 530T832 520T1200 493V675H0Z" fill="#7d64b3" opacity="0.10"/>
+      <circle cx="1045" cy="112" r="138" fill="none" stroke="#7d64b3" stroke-opacity="0.22" stroke-width="4"/>
+      <circle cx="1065" cy="122" r="182" fill="none" stroke="#7d64b3" stroke-opacity="0.12" stroke-width="2"/>
+      <circle cx="142" cy="590" r="168" fill="none" stroke="#7d64b3" stroke-opacity="0.14" stroke-width="2"/>
+      <circle cx="835" cy="575" r="92" fill="#7d64b3" opacity="0.10" filter="url(#respect_1_soft)"/>
+      <circle cx="230" cy="120" r="86" fill="#ffffff" opacity="0.42" filter="url(#respect_1_soft)"/>
+    
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="url(#respect_1_glass)"/>
+      <rect x="58" y="54" width="1084" height="566" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.78" stroke-width="3"/>
+      <rect x="86" y="88" width="252" height="50" rx="25" fill="#7d64b3"/>
+      <text x="212" y="121" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="24" fill="white">RESPECT GALLERY</text>
+      <text x="88" y="506" font-family="sans-serif" font-size="50" font-weight="800" fill="#314458">몸 · 마음 · 관계</text>
+      <text x="90" y="545" font-family="sans-serif" font-size="23" fill="#60758a">CONNECTED RESPECT</text>
+      <path d="M105 166H315" stroke="#7d64b3" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+      <circle cx="1045" cy="525" r="72" fill="none" stroke="#7d64b3" stroke-width="8" stroke-dasharray="10 14" opacity="0.55"/>
+      <path d="M988 545Q1040 474 1098 529" stroke="#7d64b3" stroke-width="5" fill="none" opacity="0.55"/>
+      <circle cx="166" cy="157" r="16" fill="#7d64b3" opacity="0.75"/>
+    <defs><filter id="side_shadow" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#304054" flood-opacity="0.12"/></filter></defs>
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="178" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="220" r="22" fill="#7d64b3" opacity="0.82"/>
+          <text x="847" y="227" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">✓</text>
+          <text x="880" y="213" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">존중</text>
+          <text x="880" y="238" font-family="sans-serif" font-size="14" fill="#657b91">다름을 인정해요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="286" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="328" r="22" fill="#7d64b3" opacity="0.82"/>
+          <text x="847" y="335" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">✦</text>
+          <text x="880" y="321" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">배려</text>
+          <text x="880" y="346" font-family="sans-serif" font-size="14" fill="#657b91">말과 행동을 살펴요</text>
+        </g>
+        
+        <g filter="url(#side_shadow)">
+          <rect x="805" y="394" width="250" height="84" rx="22" fill="#ffffff" fill-opacity="0.86"/>
+          <circle cx="847" cy="436" r="22" fill="#7d64b3" opacity="0.82"/>
+          <text x="847" y="443" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="white">◆</text>
+          <text x="880" y="429" font-family="sans-serif" font-size="18" font-weight="700" fill="#33485c">관계</text>
+          <text x="880" y="454" font-family="sans-serif" font-size="14" fill="#657b91">함께 지키는 가치</text>
+        </g>
+        
+      <g pointer-events="none">
+        <circle cx="512" cy="318" r="170" fill="#ffffff" fill-opacity="0.80" stroke="#7d64b3" stroke-opacity="0.32" stroke-width="8"/>
+        <circle cx="512" cy="318" r="148" fill="none" stroke="#7d64b3" stroke-opacity="0.12" stroke-width="3" stroke-dasharray="10 14"/>
+      </g>
+      <g filter="url(#respect_1_shadow)">
+    
+    <circle cx="512" cy="228" r="44" fill="#c7b2e7"/>
+    <circle cx="595" cy="338" r="42" fill="#9fbfe2"/>
+    <circle cx="430" cy="338" r="42" fill="#efbea8"/>
+    <circle cx="512" cy="408" r="38" fill="#8ec5b0"/>
+    <path d="M512 262L430 306M512 262L595 306M430 370L512 390M595 370L512 390" stroke="#7d64b3" stroke-width="15" stroke-linecap="round"/>
+    <circle cx="512" cy="228" r="18" fill="#fff" opacity="0.68"/>
+    <circle cx="595" cy="338" r="16" fill="#fff" opacity="0.68"/>
+    <circle cx="430" cy="338" r="16" fill="#fff" opacity="0.68"/>
+    <path d="M486 205c18-30 44-30 52 0" stroke="#7d64b3" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M405 326c18-26 44-26 52 0" stroke="#7d64b3" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M570 326c18-26 44-26 52 0" stroke="#7d64b3" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M485 438q27 25 54 0" stroke="#5f9d7e" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+      </g>
+      <text x="512" y="535" text-anchor="middle" font-size="24" fill="#7d64b3" font-family="sans-serif" font-weight="700">EXHIBIT 01</text>
+    </svg>
